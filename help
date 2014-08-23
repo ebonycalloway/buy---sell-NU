@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang ="en">
+<head>
+	<meta charset ="utf-8" />
+	<title>NU Index</title>
+	<link rel="stylesheet" href="mainpage.css">
+</head>
+<body>
+<div id="major_info">
+	<section id="main_section">
+		<ul>
+			<h1>HELP</h1>
+		</ul>
+		FAQs<br/><br/>
+		Q: Question?<br/>
+		A: Answer<br/><br/>
+		Q: Question<br/>
+		A: Answer<br/><br/>
+		Q: QQQ Privacy FAQ<br/>
+		A: AAA<br/><br/>
+	</section>
+<aside id="side_nav">
+<section id="main_side">
+<ul>
+	<a href="about.html"><li>about</li></a>
+	<a href="feedback.html"><li>feedback</li></a>
+	<a href="contact.html"><li>contact</li></a>
+	<a href="help.html"><li>help</li></a>
+</ul>
+</section>
+<br/><br/>
+<nav id="home">	
+	<a href="mainpage.html">NU INDEX</a>
+</nav>
+
+<section id="registration">
+<h1><li>Registration/Login</li></h1>
+</section>
+
+<section id="side_news">	
+<h1><li>BULLETIN<br>///</br>
+<br>THOUGHT OF THE DAY</br></li></h1>
+</section>
+</aside>
+</div>
+
+<footer id="the_footer">
+	Copyright Website 2014
+</footer>
+
+</body>
+</html>
